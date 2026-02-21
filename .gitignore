@@ -7,3 +7,4 @@ data/processed/
 data/raw/
 *.xlsx
 *.xls
+config/google_credentials.json
